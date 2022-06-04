@@ -1,7 +1,4 @@
-element {
-  font-size: 75;
-}
-Series 1
+#Series 1
 
 In this Excercise, the goal was to simulate different fractals.
 Question 1: Koch Snowflake
